@@ -16,7 +16,7 @@
     <artifactId>glossary-java-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>glossary-java-api</name>
-    <description>Glossary Converter Java API</description
+    <description>Glossary Converter Java API</description>
 
     <properties>
         <java.version>17</java.version>
